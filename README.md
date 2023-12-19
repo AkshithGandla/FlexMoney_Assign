@@ -7,6 +7,8 @@ This is a  web application that works as a form for enrollment os students for a
 - If the data is invalid, i.e no name or age is provided, then the user is prompted to fill in the proper details.
 - The users can view all of the enrolled users and their batches.
 
+Hosted URL: https://flexmoney-assign-akshith.netlify.app
+
 
 ## Screenshots
 
